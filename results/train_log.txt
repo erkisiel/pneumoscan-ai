@@ -1,0 +1,17 @@
+Cihaz: cpu
+Epoch 01 | eğitim kayıp 0.336 doğr. 0.894 | doğrulama kayıp 0.213 doğr. 0.950 AUC 0.991 | 56s
+Epoch 02 | eğitim kayıp 0.239 doğr. 0.945 | doğrulama kayıp 0.419 doğr. 0.870 AUC 0.988 | 54s
+Epoch 03 | eğitim kayıp 0.205 doğr. 0.960 | doğrulama kayıp 0.270 doğr. 0.916 AUC 0.998 | 51s
+Epoch 04 | eğitim kayıp 0.204 doğr. 0.959 | doğrulama kayıp 0.204 doğr. 0.952 AUC 0.997 | 52s
+Epoch 05 | eğitim kayıp 0.195 doğr. 0.964 | doğrulama kayıp 0.205 doğr. 0.956 AUC 0.993 | 53s
+Epoch 06 | eğitim kayıp 0.184 doğr. 0.968 | doğrulama kayıp 0.212 doğr. 0.958 AUC 0.996 | 53s
+Epoch 07 | eğitim kayıp 0.195 doğr. 0.962 | doğrulama kayıp 0.177 doğr. 0.968 AUC 0.997 | 53s
+Epoch 08 | eğitim kayıp 0.167 doğr. 0.974 | doğrulama kayıp 0.160 doğr. 0.981 AUC 0.997 | 53s
+Epoch 09 | eğitim kayıp 0.160 doğr. 0.982 | doğrulama kayıp 0.178 doğr. 0.971 AUC 0.996 | 55s
+Epoch 10 | eğitim kayıp 0.164 doğr. 0.977 | doğrulama kayıp 0.217 doğr. 0.948 AUC 0.997 | 55s
+Epoch 11 | eğitim kayıp 0.157 doğr. 0.982 | doğrulama kayıp 0.192 doğr. 0.968 AUC 0.997 | 57s
+Epoch 12 | eğitim kayıp 0.154 doğr. 0.984 | doğrulama kayıp 0.236 doğr. 0.947 AUC 0.997 | 54s
+Epoch 13 | eğitim kayıp 0.146 doğr. 0.986 | doğrulama kayıp 0.196 doğr. 0.966 AUC 0.997 | 53s
+Epoch 14 | eğitim kayıp 0.151 doğr. 0.986 | doğrulama kayıp 0.200 doğr. 0.962 AUC 0.997 | 50s
+Epoch 15 | eğitim kayıp 0.138 doğr. 0.991 | doğrulama kayıp 0.203 doğr. 0.962 AUC 0.997 | 51s
+En iyi doğrulama AUC: 0.9976  ->  /tmp/claude-0/-home-claude/38f4d200-1ac5-5491-9119-c1d41164f503/scratchpad/run/checkpoints/best_model.pt
