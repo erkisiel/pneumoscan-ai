@@ -1,8 +1,10 @@
 torch>=2.2
 torchvision>=0.17
 numpy
+pandas
 pillow
 scikit-learn
 matplotlib
-streamlit
-medmnist  # isteğe bağlı: veri setini otomatik indirmek için
+streamlit>=1.50
+pydicom>=3.0
+medmnist  # optional: downloads the dataset automatically

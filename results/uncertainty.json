@@ -1,0 +1,32 @@
+{
+  "val": {
+    "n": 524,
+    "threshold": 0.1688729077577591,
+    "std_limit": 0.08,
+    "margin": 0.1,
+    "errors": 15,
+    "low_conf": 120,
+    "errors_in_low_conf": 13,
+    "error_rate_high_conf": 0.0049504950495049506,
+    "error_rate_low_conf": 0.10833333333333334,
+    "accuracy_high_conf": 0.995049504950495,
+    "coverage_high_conf": 0.7709923664122137,
+    "mean_std_correct": 0.04636683508713523,
+    "mean_std_wrong": 0.1041818916797638
+  },
+  "test": {
+    "n": 624,
+    "threshold": 0.1688729077577591,
+    "std_limit": 0.08,
+    "margin": 0.1,
+    "errors": 47,
+    "low_conf": 170,
+    "errors_in_low_conf": 38,
+    "error_rate_high_conf": 0.019823788546255508,
+    "error_rate_low_conf": 0.2235294117647059,
+    "accuracy_high_conf": 0.9801762114537445,
+    "coverage_high_conf": 0.7275641025641025,
+    "mean_std_correct": 0.045314107568001624,
+    "mean_std_wrong": 0.1410496301671609
+  }
+}
